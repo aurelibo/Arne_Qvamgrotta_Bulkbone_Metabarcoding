@@ -1,0 +1,152 @@
+
+
+```{r}
+---
+#Article title: R Markdown for the article : "A unique 75 000 year old Arctic faunal community preserved in a cave in northern Fennoscandia"
+#Author of this script: "Aurélie Boilard"
+#Institutional email : "aurelibo@uio.no"
+#Personal email : "aurelie.boilard.1@outlook.com"
+#Updated : "June 2024"
+---
+
+#Activate the following R packages
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+
+#Use readr to import dataset
+#Filter to keep only what has over 95% for Fish16S and Aves12S. For Mamp007, identity for mammalian taxa need to be above 98% and 95% for birds and fish picked up by this primer. You will have to go through this markdown twice with primer Mamp007, one to generate 98% table and the other to generate the 95%. With the final tables, you need to remove fish and bird taxa from the 98% table and replace them with those from the 95%.
+
+
+#This markdown is an example for the Mamp007 primer to make the tables with more than 98% identity.
+
+taxo_2021 <- NO2021taxo_005_mam_Nov2023
+taxo_2022 <- NO2022taxo_005_mam_Nov2023
+
+taxo_raw <- taxo_2021[taxo_2021$`best_identity:mamp_feb2022` > 0.98,]
+
+
+##Let's take a look at the names of our column
+names (taxo_raw)
+##Now are our sequences all unique?
+length (taxo_raw$sequence)
+# 142
+length (unique (taxo_raw$sequence))
+#Same, great
+
+#How about for our scientific names?
+length ((taxo_raw$scientific_name))
+#142, makes sense, same as our sequences. But how many of the scientific names are unique?
+length (unique(taxo_raw$scientific_name))
+#28. That's fine we'll agglomerate later
+#Just to get an idea, how many sequences are per 
+table (taxo_raw$scientific_name)
+#Now we make sure every sequence is over 98% identity.
+table (taxo_raw$`best_identity:mamp_feb2022`)
+#Yep, good.
+#Now we aggregate according to the scientific names
+spp_raw <- cbind(taxo_raw$scientific_name, taxo_raw[,grep("^sample.",names(taxo_raw))])
+names(spp_raw) <- c("scientific_name",names(spp_raw)[-1])
+raw_base <- aggregate(spp_raw[,-1], by=list(spp_raw$scientific_name), FUN = "sum")
+#Our samples are columns, I prefer having taxas as columns.
+#Transpose
+spp_raw_trans <- data.frame (t(raw_base[,-1]))
+#The sample names are annoying. We want to get rid of anything before the 8th character and over the 28th one.
+names (spp_raw_trans) <- raw_base$Group.1
+row.names (spp_raw_trans)
+nchar (row.names (spp_raw_trans))
+sample_id <- substr(row.names (spp_raw_trans), 8, 28)
+spp_raw_trans$sample_id <- sample_id
+#Now, let's make the reads table
+reads_to_clean <- aggregate(spp_raw_trans[,-(ncol(spp_raw_trans))], by=list (spp_raw_trans$sample_id), FUN = "sum")
+
+##Now we need to remove anything that is under 200 reads.
+
+#Store the minimum amount of reads wanted in an object.
+MinCount_reads <- 200 # minimal number of reads
+#Turn any number of read per taxas with less than 200 reads into a 0
+reads_to_clean[reads_to_clean<MinCount_reads] = 0
+#The way the filter is set out, it also gets rid of repeats with less than 100 reads by turning anything under 200 to 0.
+reads_to_clean$readsum <- rowSums(reads_to_clean[,-1])
+#Relocate the readsum column, just to make it easier to see the count
+reads_to_clean <- reads_to_clean %>% relocate(readsum)
+##Store sample ids
+reads_id <- reads_to_clean$Group.1
+#Then remove rows that are all 0. The readsum column is only there as a visual aid here. Makes it easy to see if it worked
+#If we take a look at the readsum column we have 6 rows that are now 0.
+reads_clean <-reads_to_clean[rowSums(reads_to_clean[,-2])>0,]
+#Remove the empty columns in Excel
+#Print out the result in a csv
+  write_csv(reads_clean, "/YOUR_PATH/NOMamp007_clean98_2021.csv")
+  
+#Redo for 2022, remember to change the name of the csv file.
+
+#Open the files in Excel.
+  
+##Important note for 2021 data for primer Mamp007. The PCR blank, AB042P3 was contaminated and therefore all samples associated (BB010, BBO020BR1, BBO020BR2, BBO020BR3 and BBO021) with it were rerun and can be found in the 2022 sample list. They must be removed from the table before going forward.
+
+#Make sure that all taxa with a count under 200 has been removed by previous steps.
+#Remove columns where read count is 0.
+#Remove identifications that belong to fish and birds from the 98 table and mammals from the 95 table.
+
+
+#Look for potential contaminants.
+
+#For instance here we have the extraction blank for the primer Fish16S AB065EB1 with 136214 reads assigned to Leuciscinae, a fish subfamily. This identification appears in a few other samples and is picked up in one sample by the Mamp007 primer. Since we identified this taxon as a contaminant (potentially from the lab) in our previous study (Boilard et al., 2024) we will remove this taxon from the list in both Fish16S and Mamp007.
+#We also have common contaminant Sus and Ovis each found in one sample of Mamp007. These taxon should also be removed.
+  
+#Remove the ReadSum column
+#Set the sequences of fish and birds aside to add to the tables of Aves12S or Fish16S
+#Combined both years into one table
+#Save the new file as csv.
+
+
+#Load your metadata
+metadata <- Metadata_Mamp007_Mam_2024
+#Make sure your metadata and your reads file have the same number of entry and that the sample names have the same in at least one field.
+#Yes, it all has 47 observations
+
+#I will want my data by sedimentary layer
+
+sample_id <- metadata$Sample_id
+type <- metadata$Type
+layer_id  <- metadata$Layer
+#Reload your clean data
+reads_type <- Mamp007_clean_combined_mammal_table
+###Seperate bulk samples from single bones tested
+reads_type$type <- type
+reads_type$sample_id <- sample_id
+reads_type$layer <- layer_id
+reads_bulk <- reads_type 
+
+
+#Make a matrix for the bulk bone
+sample_id_bulk <- reads_bulk$sample_id
+reads_bulk$Group.1 <- sample_id_bulk
+##Only take the columns we really want
+#1:31 for birds, 1:18 for fish
+reads_final <- reads_bulk[ , c(1:14)] 
+bulk_matrix <- aggregate(reads_final[,-1],
+by=list(reads_final$Group.1), FUN = "sum")
+
+#Write this reads matrix as a csv.
+write_csv(bulk_matrix, "/Users/aurelibo/Desktop/PhD/Projet/EvoCave/Papers/Arne_Qvam/GitHub/Reads_distribution/Mamp007/NOMamp007_Mam_bulkmatrix_2024.csv")
+#Redo for Pisces and Aves and then combine the tables.
+
+###If we want it by layer
+reads_layer<- reads_bulk
+layer_id_bulk <- reads_bulk$layer
+reads_layer$Group.1 <- layer_id_bulk
+reads_layer_final <- reads_layer[ , c(1:14)]
+layer_matrix <- aggregate(reads_layer_final[,-1],
+by=list(reads_layer_final$Group.1), FUN = "sum")
+
+write_csv(layer_matrix, "/Users/aurelibo/Desktop/PhD/Projet/EvoCave/Papers/Arne_Qvam/GitHub/Reads_distribution/Mamp007/NOMamp007_Mam_LAYER_2024.csv")
+
+##Remove any leftover blanks, double check for contamination.
+
+```
+
+
+```
+
