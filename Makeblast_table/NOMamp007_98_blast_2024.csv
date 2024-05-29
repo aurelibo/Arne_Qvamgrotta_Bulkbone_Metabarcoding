@@ -1,0 +1,336 @@
+id,best_identity:mamp_feb2022,count,scientific_name,species_list:mamp_feb2022,species_name,taxid,sequence
+GH00000001,1,4245053,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000002,1,447474,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataacaaaattttatatgggctgacaatttc
+GH00000003,1,1238749,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00000004,0.985915492958,1286320,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttattaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000006,1,2246104,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000007,1,946357,Gadidae,[],NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00000010,0.985915492958,53694,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,taatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000012,0.987341772152,156305,Vulpes lagopus,['Vulpes lagopus'],Vulpes lagopus,494514,ttaattaattagcccaaacccatgaaatccaaaccccaccgggaataacttactatcatcgttatgggctaacaattta
+GH00000019,0.985915492958,36652,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaataacaagatataagttagcaatttc
+GH00000027,0.986301369863,50774,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaatagcttt
+GH00000030,0.986842105263,20793,Ursus,[],NA,9639,caattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00000037,1,37855,Canis lupus,['Canis lupus'],Canis lupus,9612,ttaattaactaacccaaacttatggatactagatacctacaaggcataacataacaccattattatgagttagcaattta
+GH00000056,0.985915492958,92417,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaatttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000059,0.986111111111,367619,Bilateria,"['Epirinus aquilus', 'Homo heidelbergensis']",NA,33213,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactaccaaacctgcattaaaaatttc
+GH00000068,0.985915492958,53424,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttaacaatttc
+GH00000084,0.986486486486,55881,Mysticeti,['Balaenoptera omurai'],NA,9761,tcaattaatcaacccaaaaatcacaaccttaaaccaccaagggataacaaagttttatatgggctgacaatttc
+GH00000086,1,43860,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtaccactaagggataacaaaattttatatgggttgacaatttc
+GH00000097,0.985915492958,65154,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaactctattggaacaaacaacaagatataagttagcaatttc
+GH00000105,0.985915492958,50655,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaattaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000118,0.986301369863,42806,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,taactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000119,0.986301369863,22962,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaataacaatactctttatgggctaacagcttt
+GH00000157,0.986301369863,23478,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaattacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000173,0.985915492958,71997,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttattaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000208,1,36228,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000220,0.987012987013,25367,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaactcaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000242,0.985915492958,46485,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccttattggaacaaacaacaagatataagttagcaatttc
+GH00000256,0.986301369863,7237,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggttaacagcttt
+GH00000260,0.986842105263,8376,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccataagctagcaattta
+GH00000264,0.986301369863,27434,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgagctaacagcttt
+GH00000271,0.985915492958,31311,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataaattagcaatttc
+GH00000282,0.986301369863,23511,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagtttt
+GH00000295,0.986301369863,49681,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataattaaggaaacaacaatactctttatgggctaacagcttt
+GH00000309,0.986842105263,24650,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatatttcttccatgagctagcaattta
+GH00000328,0.986301369863,20681,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactttttatgggctaacagcttt
+GH00000417,0.986486486486,13101,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaaggaataacaaaattttatatgggctgacaatttc
+GH00000424,0.985915492958,62726,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaataagatataagttagcaatttc
+GH00000524,0.985915492958,48006,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaatcctattggaacaaacaacaagatataagttagcaatttc
+GH00000586,0.986842105263,41193,Ursus,[],NA,9639,tcaattaattaactcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00000596,1,23354,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccgacaggaacaacatattccttccatgagctagcaattta
+GH00000630,0.986301369863,24109,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaataatactctttatgggctaacagcttt
+GH00000675,0.986301369863,14912,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatattctttatgggctaacagcttt
+GH00000690,0.986301369863,20191,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttaacccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000821,0.986486486486,13009,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaatccaaaaatcataacctcaaaccaccaagggataacaaaattttatatgggctgacaatttc
+GH00000849,0.986666666667,5422,Balaenoptera,[],NA,9766,tcaattaatcaacccaaaaatcataaccttaaaccaccaagggataacaaaattttatatgggctgacaatttc
+GH00000960,0.986842105263,22041,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaataggaacaacatattccttccatgagctagcaattta
+GH00001123,0.987012987013,10915,Erignathus barbatus,['Erignathus barbatus'],Erignathus barbatus,39304,tcaattaattaatccaatagaatatgtctaattaaccaacaaggaataaaataactctataatggattaacaattta
+GH00001125,0.986486486486,16017,Mysticeti,"['Balaenoptera edeni', 'Balaena mysticetus']",NA,9761,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataacaaaattttatatgggctgacaatttt
+GH00001193,0.986842105263,18633,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagttagcaattta
+GH00001243,1,55662,Erignathus barbatus,['Erignathus barbatus'],Erignathus barbatus,39304,tcaattaactaatccaatagaatatgtctaattaaccaacaaggaataaaataactctataatggattaacaattta
+GH00001336,0.986666666667,1341,Gadidae,[],NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgatagcagtaaaaacttagtgatatttactgaagtgtcttt
+GH00001342,0.986301369863,5535,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaagaaacaacaatactctttatgggctaacagcttt
+GH00001483,0.985915492958,22109,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcagctaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00001542,0.986842105263,6560,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaataacatattccttccatgagctagcaattta
+GH00001715,0.986301369863,13872,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaaaaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00001726,0.986842105263,18763,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaagaacaacatattccttccatgagctagcaattta
+GH00001999,0.986842105263,12752,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctaacaattta
+GH00002205,0.986842105263,13702,Ursus,[],NA,9639,ttaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00002228,0.985915492958,43444,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaatttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00002294,0.986301369863,12840,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactatttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00002423,0.986842105263,8926,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttatttaccaaaccaacaggaacaacatattccttccatgagctagcaattta
+GH00002785,0.986666666667,1418,Zoarcales,"['Anarhichas denticulatus', 'Anarhichas lupus']",NA,8192,ttagacaccaaggtagatcatgttaataaccctgaataaaggactaaaccagatggaacctaccctaatgtcttt
+GH00002977,0.986486486486,10408,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataataaaattttatatgggctgacaatttc
+GH00003876,0.986666666667,11682,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis', 'Gadus macrocephalus', 'Gadus morhua', 'Merlangius merlangus']",NA,8045,tagacctaaagtaagtcacgtttaacatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00004061,0.986486486486,4052,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataacaaaattttatacgggctgacaatttc
+GH00004211,0.986842105263,6481,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacatgaacaacatattccttccatgagctagcaattta
+GH00004252,0.986666666667,6624,Gadus morhua,['Gadus morhua'],Gadus morhua,8049,ttagacctaaagtaagtcacgtttaacatgctataataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00004973,0.986842105263,2757,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttatttactagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00005069,0.986486486486,1051,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccgccaagggataacaaaattttatatgggctgacaatttc
+GH00005459,0.986301369863,1927,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttattggctaacagcttt
+GH00005628,1,990,Somateria spectabilis,['Somateria spectabilis'],Somateria spectabilis,203439,taaaaatcaacggccaccgcgaatccaaaaccaaacccaccgggcccaccaccaatcgcagagcatggccgatatttttc
+GH00007667,0.985915492958,4838,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagaaatttc
+GH00008045,0.986666666667,862,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis']",NA,8045,ttagacctaaagtaagtcacgtttaatatgttgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00009361,0.986842105263,3669,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttatcagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00010189,0.986486486486,3116,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataacaaaattttatatgggttgacaatttc
+GH00010806,0.986666666667,1541,Lagopus,"['Lagopus lagopus', 'Lagopus muta']",NA,30409,taaaaataacgaccacttctccactaacactatccaccggactcacccccataaaacacttggtcgacatttttc
+GH00012426,0.986666666667,1306,Lagopus muta,['Lagopus muta'],Lagopus muta,64668,taaaaataacgaccacttctccactaacaccatccaccggactcacccccataaaacacttggtcgacatttttc
+GH00013404,0.986842105263,1282,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatctaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00013956,0.986301369863,3243,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatggactaacagcttt
+GH00014067,0.986842105263,2422,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtaccactaagggataacaaaattttatatggattgacaatttc
+GH00018336,1,335,Salvelinus,[],NA,8033,ttagacaccaggcagatcacgtcaagtaaacttaaattaacaagtaaaaacgcagtgacccctagcccatatgtcttt
+GH00026456,0.986842105263,452,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtatcactaagggataacaaaattttatatgggttgacaatttc
+GH00026967,0.9875,425,Somateria,"['Somateria mollissima', 'Somateria spectabilis', 'Somateria fischeri']",NA,50366,taaaaatcaacggccaccgcgaatccaaaaccaaacccaccgggcccaccaccaatcgcagagcatggccgatatttttt
+GH00030626,0.986666666667,853,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis', 'Gadus macrocephalus', 'Gadus morhua', 'Merlangius merlangus']",NA,8045,ttagacctaaagtaagtcacgtttaacatgctatgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00045216,0.987012987013,95,Erignathus barbatus,['Erignathus barbatus'],Erignathus barbatus,39304,tcaattaactaatccaatagaatatgtctaattaaccaacaaggaataaaataactctataatagattaacaattta
+GH00062824,0.9875,209,Canis,['Canis lupus'],NA,9611,ttaattaactaacccaaacttatggatactagatacctacaaggcataacataacaccattattatgagttagcaatttc
+GH00076355,0.9875,380,Clangula hyemalis,['Clangula hyemalis'],Clangula hyemalis,197941,taaaaatcaacggccaccgcgaacccaaaaccaaacccaccgggctcaccaccaatcgcagagcatggccgacatttttc
+GH00088644,1,49,Sebastes,[],NA,34820,ttagacaccaaagaagatcctgtcaagtaaccccttataagggcctaaactaatggaatccttccctaatgtcttt
+GH00090756,1,612,Haliaeetus,[],NA,8968,taaaaatcagcagccactatacacaaatgtacacctactaggcctacgcctaaaacctaaatgctggcctgcatttttc
+GH00117645,0.986666666667,22,Larus,['Larus occidentalis'],NA,8911,taaaaatcagcgaccaccacatacaaatccaaccctaccaggctcactaccctcaaactctggtccgcatttttc
+GH00160268,0.986486486486,149,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataacaaaattttatatgggcttacaatttc
+GH00172272,1,64,Ursus arctos,['Ursus arctos'],Ursus arctos,9644,tcaattaattagctcaaaaggatttatttaccagaccgacaggaacaacatattccttccatgagctggcaattta
+GH00211912,0.9875,11,Canis,['Canis lupus'],NA,9611,ttaattaactaacccaaacttatggatactagatacctacaaggcataacataacaccattattatgggctaacaattta
+GH00230693,0.986666666667,3,Cepphus grylle,['Cepphus grylle'],Cepphus grylle,28697,aaaaatcaacggtcactgcatacaaatttaaacctactaggctcattattcccaaatgctgacccgtatttttc
+GH00259399,0.986842105263,334,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccgtccatgagctagcaattta
+GH00465543,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,acaattaattagctcaaaaggatttatttaccaaaccgacaggaacaacatattccttccatgagctagcaattta
+GH00651301,0.986666666667,4,Gadidae,"['Gadus morhua', 'Boreogadus saida', 'Arctogadus glacialis']",NA,8045,ttagacctaaagtaagtcacgtttaatatgctgtgataacggtaaaaacttagtgatatttactgaagtgtcttt
+GH00662018,0.986301369863,1,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaataaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH00697482,1,56,Cepphus grylle,['Cepphus grylle'],Cepphus grylle,28697,taaaaatcaacggtcactgcatacaaatttaaacctactaggctcattattcccaaatgctgacccgtatttttc
+GH01330164,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactataaccctattggaacaaacaacaagatataagttagctatttc
+GH01650021,0.986666666667,1,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis']",NA,8045,ttagacctaaagtaagtcacttttaatatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH01934668,0.986301369863,3,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttggcccaaagaaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH01978146,0.987341772152,1,Vulpes lagopus,['Vulpes lagopus'],Vulpes lagopus,494514,ttaattaattagcccaaacccatgaaatccaaacacctccgggaataacttactatcatcgttatgggctaacaattta
+GH02235368,0.987012987013,6,Erignathus barbatus,['Erignathus barbatus'],Erignathus barbatus,39304,tcaattaactaatccaatagaatatgtctaattaaccaacaagtaataaaataactctataatggattaacaattta
+GH02449843,0.986301369863,3,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaacaactaaggaaacaacaatactctttgtgggctaacagcttt
+GH02658039,0.986842105263,2,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaagggtttatttaccaggccaacaggaacaacatattccttccatgagctagcaattta
+GH02813470,0.986842105263,3,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaaggatttatttaccaggccaacaggatcaacatattccttccatgagctagcaattta
+GH03287316,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaagaggatttatttaccaggccgacaggaacaacatattccttccatgagctagcaattta
+GH03702024,0.986301369863,1,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataattttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH04071104,0.986842105263,1,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaactagctcaaaaggatttatttatcagaccaacaggaacaacatattccttccatgagctagcaattta
+GH04255643,0.986666666667,1,Lagopus muta,['Lagopus muta'],Lagopus muta,64668,taaaaataacgaccacttctccactagcaccatccaccggactcacccctataaaacacttggtcgacatttttc
+GH04790523,0.985915492958,4,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactgaagccctattggaacaaacaacaagatataagttagcaatttc
+GH05298840,0.986301369863,1,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttatctacttagcccaaagaaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH05450511,0.985915492958,3,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttgtcaactgaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH05575786,0.986301369863,3,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaacaactacggaaacaacaatactctttatgggctaacagcttt
+GH05983383,0.9875,1,Canis,['Canis lupus'],NA,9611,ttaattaactaacccaaacttatgggtactagatacctacaaggcataacataacaccattatcatgggttagcaattta
+GH06564507,0.986666666667,1,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis']",NA,8045,ttagacctaaagtaagtcacgattaatatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH07147264,0.986111111111,1,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaactaacaaacctgcattaaaaatttc
+GH08125562,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaatcgctcaaaaggatttatttaccagaccgacaggaacaacatattccttccatgagctagcaattta
+GH08229955,0.986666666667,1,Gadidae,['Gadus morhua'],NA,8045,ttagacctaaagtaagtcacgtttaacatgatgtaataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH08693263,0.986111111111,1,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattagtgcaaacaatacctaacaaacccacaggtcctaaactaccaaacctgcattaaaaatttc
+GH08891495,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggattcatttaccagaccgacaggaacaacatattccttccatgggctagcaattta
+GH09040709,0.986666666667,1,Gadidae,"['Gadus morhua', 'Merlangius merlangus']",NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgataacaaaaaaacttagtgatatttactgaagtgtcttt
+GH09211500,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaaattaacttatcaactataaccctattggaacaaacaacaagatataagttagcaatttc
+GH09226360,0.985915492958,2,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactgaaaccctattggaacaaacaacacgatataagttagcaatttc
+GH09458509,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaagaatttatttaccagacctacaggaacaacatattccttccatgagctagcaattta
+GH09869707,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaatcagctcaaaaggatttatttaccagaccggcaggaacaacatattccttccatgagctagcaattta
+GH09932538,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,ttaattaattagctcaaaaggatttattcaccagaccgacaggaacaacatattccttccatgagctagcaattta
+GH10359049,0.986842105263,3,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaaggatttatttaccaggccaacgggaacaacatattccttccatgagctagcaattta
+GH10686810,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactataaccctagtggaacaaacaacaagatataagttagcaatttc
+GH12900017,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatctatttaccagaccgacaggaacaacctattccttccatgagctagcaattta
+GH13075114,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttatttaccaaaccgacaggaacaacatactccttccatgagctagcaattta
+GH13079810,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattaactcaaaaggatctatttaccagaccgacaggaacaacatattccttccatgagctagcaattta
+GH13299053,0.986111111111,1,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatctattaatgcaaacaatacctaacaaacccacaggtcctaaactaccaaacctgcattaaaaatttc
+GH14235492,0.9875,1,Canis lupus,['Canis lupus'],Canis lupus,9612,ttaattaactaacctaaacttatggatactagatacccacaaggcataacataacaccattattatgagttagcaattta
+GH14488522,0.9875,1,Canis lupus,['Canis lupus'],Canis lupus,9612,ttaattaactaacccaaacttatggatactagatacctacaagacaaaacataacaccattattatgagttagcaattta
+GH14962406,0.986666666667,1,Gadidae,['Gadus morhua'],NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtaataacagcaaaaacttagtgatatttactgaagtgtcttt
+GH15129514,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaatcagctcaaaaggatttatttaccagaccgataggaacaacatattccttccatgagctagcaattta
+GH15395557,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccgacaggaacaccatattccttccatgagctaacaattta
+GH15489775,0.986842105263,1,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaactagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaatgta
+GH15513899,0.986301369863,1,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacctagcccaaagaaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH15548690,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactataaccctattggaacaaacaacaagatataagttagcaatatc
+GH16065367,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactgaaaccctattggaacaaaccacaagatataagttagcaatttc
+GH00000001,0.986111111111,433603,Bilateria,"['Epirinus aquilus', 'Homo heidelbergensis']",NA,33213,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactaccaaacctgcattaaaaatttc
+GH00000002,1,653994,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000007,1,383995,Gadidae,[],NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00000010,0.987012987013,158705,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaactcaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000014,0.986842105263,2185,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaagaacaacatattccttccatgagctagcaattta
+GH00000016,1,599167,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000026,0.986301369863,193622,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatggactaacagcttt
+GH00000031,1,268425,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000038,1,349199,Ursus,[],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00000041,0.986486486486,96855,Mysticeti,['Balaenoptera omurai'],NA,9761,tcaattaatcaacccaaaaatcacaaccttaaaccaccaagggataacaaagttttatatgggctgacaatttc
+GH00000049,0.987012987013,6425,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtggaacagcaattta
+GH00000050,0.987341772152,315039,Vulpes lagopus,['Vulpes lagopus'],Vulpes lagopus,494514,ttaattaattagcccaaacccatgaaatccaaaccccaccgggaataacttactatcatcgttatgggctaacaattta
+GH00000055,1,85648,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacctaaagtaattcatgtttaatatactatgataacagtgaaaacttagtgatacttactgaagtgtcttt
+GH00000062,0.985915492958,31287,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttattaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000064,1,35409,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaagggataacaaaattttatatgggctgacaatttc
+GH00000076,0.986301369863,11350,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaagaaaacaacaatactctttatgggctaacagcttt
+GH00000080,0.987012987013,119925,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattttacagtgggacagcaattta
+GH00000104,0.987012987013,3909,Lepus,['Lepus timidus'],NA,9980,ttaattatttaattcaatattttcacaacttcactccacgggagcttaaccaagaaaatccctgaattaaaaatttt
+GH00000112,0.986301369863,13446,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaataacaatactctttatgggctaacagcttt
+GH00000121,1,65622,Lepus,[],NA,9980,ttaattatttaattcaatattttcacaacttcactccacaggagcttaaccaagaaaatctctgaattaaaaatttt
+GH00000127,0.986842105263,4106,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccataagctagcaattta
+GH00000147,0.986842105263,3450,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatatttcttccatgagctagcaattta
+GH00000148,0.986301369863,24797,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataattaaggaaacaacaatactctttatgggctaacagcttt
+GH00000173,0.986301369863,15836,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcctaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000198,0.986666666667,17042,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacttaaagtaattcatgtttaatatactatgataacagtgaaaacttagtgatacttactgaagtgtcttt
+GH00000205,0.986301369863,11868,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaataatactctttatgggctaacagcttt
+GH00000212,1,59320,Lepus,[],NA,9980,ttaattatttaattcaatattttcacaacttcactccacaggagcttaaccaagaaaatccctgaattaaaaatttt
+GH00000215,0.986666666667,17393,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacctaaagtaattcatgtttaatatactatgataacagtgaaaacttagtgatacttactgaagtatcttt
+GH00000229,0.985915492958,4469,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaatttaacttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00000232,0.986301369863,22269,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatctaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000262,0.986301369863,5016,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagtccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000276,1,1802,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtaccactaagggataacaaaattttatatgggttgacaatttc
+GH00000285,0.987012987013,18844,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaatccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000341,1,42658,Molva molva,['Molva molva'],Molva molva,163112,ttagacctaaagtaagtcacgtttaacatactagaataacagtaaaaacttagtgataattaccgaagtgtcttt
+GH00000354,1,7917,Ovis,[],NA,9935,ttaactaagtaactcaaggaaaataaattcaaccaccaagggataacaacactccttatgagttaacagtttc
+GH00000397,0.987012987013,13940,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaaataattctacagtgggacagcaattta
+GH00000401,1,15597,Alburnus alburnus,['Alburnus alburnus'],Alburnus alburnus,54556,taaggtacaaacttaatcacgttaaacgacttcataaagagcaagaacttagtggcgataagactttaccttc
+GH00000410,0.987012987013,18318,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacctaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000414,0.986842105263,4760,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattctttccatgagctagcaattta
+GH00000424,0.986301369863,4164,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacaacttt
+GH00000475,0.986301369863,14695,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatattctttatgggctaacagcttt
+GH00000602,0.986842105263,16397,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacctaaagtaatttatgtttaatatactatgataacagtgaaaacttagtgatacttactgaagtgtcttt
+GH00000649,1,4633,Pusa hispida,['Pusa hispida'],Pusa hispida,9718,ttaattaactaactcaacagaacaaatccagtcaaccaacagggaataaaaacttctataatgagttagcaattta
+GH00000770,0.986666666667,2778,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacctaaagtaattcatgtttaatatactatgataacagtgaaaatttagtgatacttactgaagtgtcttt
+GH00000824,0.986301369863,15250,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagctcaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000839,0.986842105263,9368,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,ttaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00000875,0.985915492958,7098,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaataaacaacaagatataagttagcaatttc
+GH00000889,0.987012987013,142,Odobenus rosmarus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,62698,tcaattaactaactcaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00000897,0.986301369863,5822,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactatttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00000985,0.987012987013,2312,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgagacagcaattta
+GH00000994,0.986666666667,1566,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis', 'Gadus macrocephalus', 'Gadus morhua', 'Merlangius merlangus']",NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgataacagtaaaaacttagtgatacttactgaagtgtcttt
+GH00000999,0.986842105263,3439,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtaccactaagggataacaaaattttatatgggttgataatttc
+GH00001046,1,1953,Canis lupus,['Canis lupus'],Canis lupus,9612,ttaattaactaacccaaacttatggatactagatacctacaaggcataacataacaccattattatgagttagcaattta
+GH00001062,0.985915492958,5488,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaataagatataagttagcaatttc
+GH00001144,0.985915492958,1548,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaattaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00001179,0.986842105263,2995,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattaactcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00001297,0.985915492958,3689,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactaaaaccctattggaacaaacaacaagatataagttaacaatttc
+GH00001320,0.987012987013,3,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattgactaacccaatagaatctattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00001368,0.987012987013,5326,Lepus,['Lepus townsendii'],NA,9980,ttaattatttaattcaatattttcacaacttcactccacaagagcttaaccaagaaaatctctgaattaaaaatttt
+GH00001446,0.986842105263,14335,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttatcagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00001461,0.986486486486,2867,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccatcaagggataacaaaattttatatgggctgacaatttc
+GH00001498,0.985915492958,1254,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaatttatcaactaaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH00001644,0.986842105263,590,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagaattta
+GH00001845,0.986486486486,1332,Balaena mysticetus,['Balaena mysticetus'],Balaena mysticetus,27602,tcaattaatcaacccaaaaatcataacctcaaaccaccaaggaataacaaaattttatatgggctgacaatttc
+GH00001884,0.986666666667,4224,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis', 'Gadus macrocephalus', 'Gadus morhua', 'Merlangius merlangus']",NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgataacagtaaaaacttagtgatatttactgaagtatcttt
+GH00002327,0.986301369863,3669,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgtgctaacagcttt
+GH00002571,1,2853,Leuciscinae,[],NA,2743728,taaggtacaaaattcaaccacgttaaacgactctacatgaagcaagaacttagtggcgaatgaaattttaccttc
+GH00002591,0.986301369863,5134,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaatagcttt
+GH00002598,0.987012987013,1638,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttatttaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00002631,0.986301369863,648,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggctaacagtttt
+GH00002850,0.9875,789,Clangula hyemalis,['Clangula hyemalis'],Clangula hyemalis,197941,taaaaatcaacggccaccgcgaacccaaaaccaaacccaccgggctcaccaccaatcgcagagcatggccgacatttttc
+GH00002859,0.986666666667,5752,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacctaaagtaattcatgtttaatatattatgataacagtgaaaacttagtgatacttactgaagtgtcttt
+GH00002976,0.986842105263,2998,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagttagcaattta
+GH00003796,1,130,Bimastos rubidus,['Bimastos rubidus'],Bimastos rubidus,2866284,ttatttaataaaagtatagcccaactttttataattc
+GH00003887,0.986301369863,3703,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactctttatgggttaacagcttt
+GH00003928,0.986301369863,118,Odocoileus hemionus hemionus,['Odocoileus hemionus'],Odocoileus hemionus,9877,ttaactacttagtccaaagaaataaatttaataactaaggaaacaacaatactctttatggactaacagcttt
+GH00004349,0.987012987013,2393,Sus scrofa,['Sus scrofa'],Sus scrofa,9823,ttaattaactattccaaaagttaaacaactcaaccacaaagggataaaacataacttaacatggactagcaatttc
+GH00004676,0.986842105263,2540,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaagatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00004705,0.986301369863,1273,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacagcaatactctttatgggctaacagcttt
+GH00005085,0.986301369863,1986,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaaaaaataaatttaataactaaggaaacaacaatactctttatgggctaacagcttt
+GH00005487,0.986301369863,2393,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaataactaaggaaacaacaatactttttatgggctaacagcttt
+GH00005898,1,1167,Corvus,[],NA,30420,taaaaatcagcagccacccctccacacattcacacccaccgggtacacgcttatacagggaactggcctgcatttttc
+GH00006085,0.986666666667,164,Lagopus muta,['Lagopus muta'],Lagopus muta,64668,taaaaataacgaccacttctccactaacaccatccaccggactcacccccataaaacacttggtcgacatttttc
+GH00007335,0.986842105263,1130,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagctcaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctatcaattta
+GH00008616,1,1023,Chamaedrilus sphagnetorum,['Chamaedrilus sphagnetorum'],Chamaedrilus sphagnetorum,1628350,ttattttaaatgtttaaaaaacacactaaattc
+GH00008804,1,505,Somateria spectabilis,['Somateria spectabilis'],Somateria spectabilis,203439,taaaaatcaacggccaccgcgaatccaaaaccaaacccaccgggcccaccaccaatcgcagagcatggccgatatttttc
+GH00019978,1,53,Cepphus grylle,['Cepphus grylle'],Cepphus grylle,28697,taaaaatcaacggtcactgcatacaaatttaaacctactaggctcattattcccaaatgctgacccgtatttttc
+GH00037722,1,132,Canis,[],NA,9611,ttaattaactaacccaaacttatggatactagatacctacaaggcataacataacaccattattatgggttagcaattta
+GH00043247,0.987012987013,4,Lepus,['Lepus townsendii'],NA,9980,ttaattatttaattcaatattttcacaacttcactccacaggagcttaaccaagaaaagctctgaattaaaaatttt
+GH00070531,0.986842105263,296,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaattagcttaaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH00074522,0.986666666667,41,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis', 'Gadus macrocephalus', 'Gadus morhua', 'Merlangius merlangus']",NA,8045,ttagacctaaagtaattcacgtttaacatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00075782,0.987012987013,78,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaactcaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggatagcaattta
+GH00076971,1,38,Pan troglodytes,['Pan troglodytes'],Pan troglodytes,9598,ttaatttattaatgcaaacaaagctcagataagcccacaggccttaaactactgtccctgcattaaatatttt
+GH00093439,0.986666666667,434,Melanogrammus aeglefinus,['Melanogrammus aeglefinus'],Melanogrammus aeglefinus,8056,ttagacctaaaataattcatgtttaatatactatgataacagtgaaaacttagtgatacttactgaagtgtcttt
+GH00143919,0.986842105263,41,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtaccactaagggataacaaaattttatatgggctgacaatttc
+GH00144467,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcaattaattaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00235291,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtggtatagcaattta
+GH00267168,0.986111111111,3,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaatttattaatgcaagcagtacctaacaaacccacaggtcctaaactactaaacctgcattaaaaatttc
+GH00302305,0.986842105263,1,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaggatttatttaccaggccaacaggaacaacatattccttccatgagctagcaattta
+GH00318479,1,4,Cottus,[],NA,8098,ttagacacgaaagcagcccacgttaagcaccccgaataaaggactaaaccaagtgggccctgccctaatgtcttt
+GH00389594,0.987341772152,2,Vulpes lagopus,['Vulpes lagopus'],Vulpes lagopus,494514,ttaattaattagaccaaacccatgaaatccaaacccctccgggaataacttactatcatcgttatgggctaacaattta
+GH00408696,0.986301369863,3,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaacaactaaggaaacaacaatactctttgtgggctaacagcttt
+GH00435795,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,ttaattaattagctcaaaaggatctatttaccagaccgacaggaacaacatattccttccatgagctagcaattta
+GH00449098,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcaaggaaaataaactcaaccaccaggggataacaacactccttatgagttaacagtttc
+GH00449738,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcgattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00500922,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttatttaccagaccgacaggaacaacatattcctttcatgggctagcaattta
+GH00515778,0.986666666667,9,Gadidae,"['Boreogadus saida', 'Arctogadus glacialis']",NA,8045,ttagacctaaagtaagtcatgtttaatatgctgtgataacagtaaaaacttagtgatatttactgaagtgtcttt
+GH00545811,0.986111111111,2,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaactaccaaatctgcattaaaaatttc
+GH00547297,0.987012987013,18,Lepus,['Lepus timidus'],NA,9980,ttaattatttaattcaatattttcacaacttcactccacaggtgcttaaccaagaaaatccctgaattaaaaatttt
+GH00564064,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcaattaactgacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH00564280,0.986301369863,1,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactgcttagcccaaagaaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH00749029,0.986301369863,6,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagctcaaagaaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH00828034,0.986666666667,20,Gadidae,['Boreogadus saida'],NA,8045,ttagacctaaagtaagtcacgtttaacatgctgtgataacagtgaaaacttagtgatacttactgaagtgtcttt
+GH00837610,0.986486486486,2,Mysticeti,['Balaenoptera omurai'],NA,9761,tcaattaatcaacccaaaaataacaaccttaaaccaccaagggataacaaaattttatatgggctgacaatttc
+GH00856817,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttatgcaattaaccaatatgggacaaagtaattctacagtgggatagcaattta
+GH00862551,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatctattcaattaaccaatatgggacaaagcaattctacagtgggacagcaattta
+GH00875713,0.986842105263,2,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaaggatttatttaccaggccaacaggaacaacatattccttccatgagctagcaatttt
+GH00904309,0.986666666667,1,Cottus,"['Cottus perifretum', 'Cottus pollux', 'Cottus poecilopus', 'Cottus asper']",NA,8098,tagacacgaaagcagcccacgttaagcaccccgaataaaggactaaaccaagtgggccctgccctaatgtcttt
+GH00912369,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggatagcaatata
+GH00981047,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatacgggacaaagtaattctacagtgggatagcaattta
+GH01058814,0.986486486486,1,Mysticeti,[],NA,9761,tcaattaatcaacccaaaaatcacaaacttaaaccaccaagggataacaaaactttatatgggctgacaatttc
+GH01107006,0.987179487179,1,Odobenus rosmarus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,62698,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggattagcaattta
+GH01115551,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactgaaaccctattggaacaaacaacaagatataacttagcaatttc
+GH01327052,0.986111111111,2,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaataactaacaaacccacaggtcctaaactaccaaacctgcattaaaaatttc
+GH01347636,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcagggaaaataaattcaaccaccaggggataacaacactccttatgagttaacagtttc
+GH01375701,0.986111111111,1,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactactaatcctgcattaaaaatttc
+GH01514009,0.987012987013,10,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgagatagcaattta
+GH01555102,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaaaagaatttattcaattaaccaatatgggacaaagtaattctacagtgggatagcaattta
+GH01625293,0.986301369863,3,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaacagctaaggaaacaacaatactctttatgggctaacagcttt
+GH01684330,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcaaggaaaataaattcaaccaccaagggataacagcactccttacgagttaacagtttc
+GH01694014,0.9875,1,Somateria,"['Somateria mollissima', 'Somateria spectabilis']",NA,50366,taaaaatcaacggccaccgcgaatgcaaaaccaaacccaccgggcccaccaccaatcgcagggcatggccgatatttttc
+GH01934809,0.986301369863,1,Ovis,['Ovis ammon'],NA,9935,ttaactaagtaactcaggaaaataaatttaaccaccaagggataacaacactccttatgagttaacagtttc
+GH01937760,0.986111111111,2,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaacctaccaaacctgcattaaaaatttc
+GH01990064,0.986111111111,2,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaaataccaaacctgcattaaaaatttc
+GH02005216,0.986842105263,2,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaaggatttatttaccaggccaacaggaacaacatattccttccatgagctagaaattta
+GH02153047,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacataacttatcaactataaccctattggaacaaacaacaagatataagttagcaatttc
+GH02164850,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactataaccctattggaacatacaacaagatataagttagcaatttc
+GH02187231,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaatcta
+GH02199304,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgtgatagcaattta
+GH02304723,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattgactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggatagcaattta
+GH02313678,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacaatgggacagcaattta
+GH02358354,0.987012987013,3,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggaaaaagtaattctacagtgggatagcaattta
+GH02382451,0.987179487179,1,Odobenus rosmarus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,62698,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggagtagcaattta
+GH02393190,1,1,Lepus granatensis,['Lepus granatensis'],Lepus granatensis,100182,ttaattatttaattcaatattttcacaacttcactccacaggagcttaatcaagaaaatttctgaattaaaaatttt
+GH02432713,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagttattctacagtgggatagcaattta
+GH02446704,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaataggatctattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH02464439,0.986111111111,1,Phascolosoma esculenta,['Phascolosoma esculenta'],Phascolosoma esculenta,419950,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactaccaaacctggattagaaatttc
+GH02499157,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatatattcaattaaccaatatgggacaaagtaattctacagtgggatagcaattta
+GH02591970,0.986111111111,3,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaactaccaatcctgcattaaaaatttc
+GH02648513,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaagaatttatttaccagaccgacaggaacaacatattccttccatgagctaacaattta
+GH02749862,0.986111111111,1,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactactaaatctgcattaaaaatttc
+GH02795403,0.986486486486,1,Mysticeti,['Balaenoptera omurai'],NA,9761,tcaattaatcaacccaaaaatcacaaccttaaaccacaaagggataacaaaattttatatgggctgacaatttc
+GH02815168,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcaatcaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH02819656,0.987341772152,1,Vulpes lagopus,['Vulpes lagopus'],Vulpes lagopus,494514,ttaattaattagcccaaacccatgaaatccaaacccctccgggaataacttactgtcatcgttatgggctagcaattta
+GH03031140,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactataaccctattggaacaaacaacaagttataagttagcaatttc
+GH03042091,0.986111111111,1,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaactaccaaacctgcatttaaaatttc
+GH03096088,0.986301369863,20,Alburnus alburnus,['Alburnus alburnus'],Alburnus alburnus,54556,taaggtataaacttaatcacgttaaacgacttcataaagagcaagaacttagtggcgataagactttaccttc
+GH03149272,0.986111111111,1,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaatttattaatgcaaacagtacctaacaaacccacatgtcctaaactactaaacctgcattaaaaatttc
+GH03171104,0.986301369863,1,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactccttagcccaaagaaataaatttaacaactaaggaaacaacaatactctttatgggctaacagcttt
+GH03251821,0.986842105263,2,Ursus,['Ursus maritimus'],NA,9639,tcaattaattagctcaaaaggatttatttaccaggccaacaggaacgacatattccttccatgagctagcaattta
+GH03278823,0.986842105263,1,Phocoena phocoena,['Phocoena phocoena'],Phocoena phocoena,9742,ttaattaatcaactcaaaaaaatcgtaaaacagtaccactaagggataacaaaattttatatgggttgacaaattc
+GH03324439,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatctattcaattaaccaataggggacaaagtaattctacagtgggacagcaattta
+GH03360610,0.986111111111,2,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaattcattaatgcaaacagtacctaacaaacccacaggtcctaaactactaaacctgcattaaaaatttc
+GH03370012,0.986111111111,1,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactgctaaacctgcattaaaaatttc
+GH03402062,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaaaaggatttattcactagaccgacaggaacaacatattccttccatgagctagcaattta
+GH03563819,0.986111111111,2,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaactaccaaacctacattaaaaatttc
+GH03600021,0.986301369863,2,Rangifer tarandus,['Rangifer tarandus'],Rangifer tarandus,9870,ttaactacttagcccaaagaaataaatttaacaactaaggaaacaacaatactccttatgggctaacagcttt
+GH03678726,0.986666666667,1,Balaenoptera,[],NA,9766,tcaattaatcaacccaaaaatcacaaccttaaaccaccaagggataacaaaattttatatggggctgacaatttc
+GH03928103,0.986111111111,1,Homo heidelbergensis,['Homo heidelbergensis'],Homo heidelbergensis,1425170,ttaatttattaatgcaaacaatacctaacaaacccacaggtcctaaactaccaaacctgcattaaaaatctc
+GH04063311,0.986301369863,1,Ovis,['Ovis orientalis'],NA,9935,ttaactaagtaactcaaggaaaataaattcaaccaccaagggatgacaatactccttatgagttaacagtttc
+GH04086144,0.986666666667,2,Uria aalge,['Uria aalge'],Uria aalge,13746,taaaaatcagcggccactatatacaaatttaagcctattaggctcactaccattagacattggtttgcatttttc
+GH04126390,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaacagaatttattcaattaaccaatatgggacaaagtaattctacagtgggatagcaattta
+GH04172916,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaatttactaacttaacttatcaactataaccctattggaacaaacaacaacatataagttagcaatttc
+GH04205768,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggataaagtaattctacagtgggatagcaattta
+GH04288242,0.986842105263,1,Ursus,['Ursus arctos'],NA,9639,tcaattaattagctcaagaggatttatttaccagaccgacaggaacaacatatttcttccatgagctagcaattta
+GH04358343,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggataggaattta
+GH04576086,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtaggatagcaattta
+GH04634574,0.986842105263,1,Ursus,"['Ursus maritimus', 'Ursus arctos']",NA,9639,tcaattaactagctcaaaggatttatttaccagaccaacaggaacaacatattccttccatgagctagcaattta
+GH04839768,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,tcaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggacagcaatttg
+GH04853314,0.986486486486,1,Mysticeti,[],NA,9761,tcaattaatcaacccaaaaatcacaaccttaaaccaccaaggaataacaaaactttatatgggctgacaatttc
+GH04866833,0.986111111111,1,Epirinus aquilus,['Epirinus aquilus'],Epirinus aquilus,1084954,ttaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactactaaacctgcattaaaaaattc
+GH04972051,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatctattcaattaaccaatatgggacaaagtaattccacagtgggacagcaattta
+GH04986382,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcaaggaaaataagttcaaccaccaggggataacaacactccttatgagttaacagtttc
+GH04993821,0.985915492958,1,Dicrostonyx torquatus,['Dicrostonyx torquatus'],Dicrostonyx torquatus,85952,ttaattcactaacttaacttatcaactgaaaccctattggaacaaacaacaagatataagttagcaatttc
+GH05145862,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagcaactcaaggaaaataaattcaaccaccaagggataacaacactccctatgagttaacagtttc
+GH05281085,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaaccaagtagctcaaggaaaataaattcaaccaccaagggataacaacactccttatgagttaacagtttc
+GH05401013,0.986842105263,1,Pusa,"['Pusa hispida', 'Pusa caspica']",NA,693430,ttaattaactaactcaacagaacaaatacagtcaaccaacagggaataaaaacttctataatgagttaacaattta
+GH05419605,0.987012987013,2,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatttattcaattaaccaatatgggacaaagtaattctacagtgggctagcaattta
+GH05440521,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactaacccaatagaatctattcaattaaccaatatggtacaaagtaattctacagtgggacagcaattta
+GH05638591,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcagggaaaataaattcaaccaccaaggggtaacaacactccttatgagttaacagtttc
+GH05681109,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcaaggaaagtaaattcaaccaccaagggataacaacactccctatgagttaacagtttc
+GH05756320,0.987012987013,1,Odobenus rosmarus,['Odobenus rosmarus'],Odobenus rosmarus,9707,ttaattaactagcccaatagaatctattcaattaaccaatatgggacaaagtaattctacagtgggacagcaattta
+GH05802787,0.986301369863,1,Ovis,['Ovis aries'],NA,9935,ttaactaagtaactcagggaaaataaattcaaccaccaagggataaaaacactccttatgagttaacagtttc
